@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
 
 
 <channels>
-    <channels_info>
-      <title>[B][COLOR yellow]BEM-VINDOS A SNTV[/COLOR][/B]</title>
-      <genre>IPTV</genre>
-      <description>ADDON PRA VOCR CURTIR EM CASA, TODOS OS CANAIS SÃO DA INTERNET.</description>
-      <thumbnail>https://1.bp.blogspot.com/-ewy4Zf1Ph9Q/XSk5Leh1EsI/AAAAAAAADbY/kkfblkoz6kkben3rtUwM_4lWkl2sZWOjgCLcBGAs/s1600/icon.png</thumbnail>
-      <fanart>https://1.bp.blogspot.com/-x3NekGyxg5E/XSgOW7DFVCI/AAAAAAAADaU/M83D05L8Z8IP2yyLg3ouxC1lbo5vNtdVQCLcBGAs/s1600/preview.jpg</fanart>
-      <date>13.07.2019</date>
-      <credits></credits>
-    </channels_info>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÃ‡ÃƒO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
 
 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÃ‡ÃƒO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
-
-<channels>
-    <channels_info>
-      <title>[B][COLOR yellow]*** CLICA AQUI ***[/COLOR][/B]</title>
-      <genre>IPTV</genre>
-      <description>ADDON PRA VOCR CURTIR EM CASA, TODOS OS CANAIS SÃO DA INTERNET.</description>
-      <thumbnail>https://1.bp.blogspot.com/-ewy4Zf1Ph9Q/XSk5Leh1EsI/AAAAAAAADbY/kkfblkoz6kkben3rtUwM_4lWkl2sZWOjgCLcBGAs/s1600/icon.png</thumbnail>
-      <fanart>https://1.bp.blogspot.com/-x3NekGyxg5E/XSgOW7DFVCI/AAAAAAAADaU/M83D05L8Z8IP2yyLg3ouxC1lbo5vNtdVQCLcBGAs/s1600/preview.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/cesinha95/SNTVREAL/master/SERVIDORES</externallink>
-      <credits></credits>
-    </channels_info>
-<channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
